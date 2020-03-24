@@ -1,9 +1,9 @@
 module.exports =  [
     [
-      "Grad Year",
+      "GradYear",
       "FirstName",
       "NickName",
-      "Maiden Name",
+      "MaidenName",
       "LastName"
     ],
   ]
